@@ -1,0 +1,5 @@
+Dname=com.mysql.jdbc.Driver
+URL=jdbc:mysql://localhost:3306/employee?verifyServerCertificate=false&useSSL=false&requireSSL=false&useLegacyDatetimeCode=false&amp&serverTimezone=UTC
+Uname=root
+password=admin
+
